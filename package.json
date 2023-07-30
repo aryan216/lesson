@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is the react mastery time",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan216/lesson.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Aniket Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryan216/lesson/issues"
+  },
+  "homepage": "https://github.com/aryan216/lesson#readme"
+}
